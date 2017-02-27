@@ -11,6 +11,7 @@ import android.view.MenuItem;
 
 //Modificado
 //a partir do android studio
+//funcionalidade qualquer
 public class MainActivity extends AppCompatActivity {
 
     @Override
